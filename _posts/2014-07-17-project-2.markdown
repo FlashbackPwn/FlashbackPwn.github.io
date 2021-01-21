@@ -1,0 +1,14 @@
+---
+title: Reverse Engineering
+subtitle: Services
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: ghidra.jpeg
+thumbnail: ghidra-thumb.jpeg
+alt: image-alt
+description: "We have a long history of providing custom reverse engineering services to a variety of clients.<br> 
+<br>Using advanced techniques, we can <b>reverse engineer hidden algorithms, encryption and validation schemes as well as network or binary protocols</b>.<br>
+<br>Typically we perform these reversing exercises in much less time than our competitors, and provide you a full specification of what was reverse engineered at the end of each engagement. Full source code will also be provided if applicable."
+
+---

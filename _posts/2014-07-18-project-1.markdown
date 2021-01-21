@@ -1,0 +1,16 @@
+---
+title: Product Security
+subtitle: Services
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: product.jpeg
+thumbnail: product-thumb.jpeg
+alt: image-alt
+description: "Our team has extensive experience in security hardware and software products for SME and large international firms.<br>
+<br>We apply a number of techniques, ranging from hardware analysis and exploitation to web penetration test, reverse engineering, binary analysis, either manually or using industry standard tools.<br>
+<br><b>Every product is analysed with a top down approach, with or without source code, with the objective of helping you secure your product</b>. At the end of our analysis, we will provide you with a very detailed report describing the vulnerabilities found, our methodology to find them and suggested fixes and mitigations to resolve them.<br>
+<br> Please check our Research section for examples of similar techniques we have disclosed publicly."
+
+
+---

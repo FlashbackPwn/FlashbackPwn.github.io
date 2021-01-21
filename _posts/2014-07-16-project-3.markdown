@@ -1,0 +1,31 @@
+---
+title: Advanced Technical Training
+subtitle: Services
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: training.jpeg
+thumbnail: training-thumb.jpeg
+alt: image-alt
+description: "We provide a variety of <b>high quality technical courses</b> to private companies and organisations.
+<br><br>
+Our courses leverage our extensive expertise in many areas such as:
+<br>
+<br>- Vulnerability Research
+<br>- High-end Exploitation Techniques
+<br>- ICS / SCADA Hacking
+<br>- Embedded Device Hacking
+<br>
+<br>We offer standard, off-the-shelf courses but have also created custom courses for various clients.
+<br>Every course consists of custom made materials, such as slides, videos, notebooks, exercise sheets, virtual machines and hardware devices. Typically 60% of the courses will consist of hands-on exercises and live demos, with the rest being theory. 
+<br>
+<br>A key differentiator of our courses is that <b>we only demonstrate REAL vulnerabilities and exploits</b> that we or others have found. There will be no training vulnerabilities or training code demo'ed or exploited in any of the courses.
+<br>
+<br><b>Location:</b>
+<br>Training can be delivered on-site or online, according to the customer's needs. If on-site, a 10% expense fee will be levied on the total cost to pay for accomodation and flights.
+<br>
+<br><b>Duration and Fees:</b>
+<br>Standard courses range between 3 and 5 days. Custom courses can be offered for any duration, with some clients requesting up to 30 days. 
+<br>Fees are subject to negotiation, charged per person or per class, with a recommended maximum of 20 people per course."
+
+---

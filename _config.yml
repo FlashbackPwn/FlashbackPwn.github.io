@@ -1,0 +1,45 @@
+url: https://flashbackpwn.github.io
+baseurl: /
+
+# Site settings
+title: ⚡Flashback Team
+email: info@flashback.sh
+description: "Flashback Team: we're two (ethical) hackers that focus on finding and exploiting vulnerabilities in hardware and software. Winners of Pwn2Own Tokyo 2020 and providers of the best hacking training in the world."
+
+# Team names, titles and social links
+people:
+- name: Pedro Ribeiro
+  pic: pedro
+  position: Master Exploit Crafter
+  social:
+    - title: twitter
+      url: https://twitter.com/pedrib1337
+    - title: linkedin
+      url: https://www.linkedin.com/in/pedro-ribeiro-36a63324
+    - title: github
+      url: http://github.com/pedrib
+
+- name: Radek Domanski
+  pic: radek
+  position: Professional IoT Breaker
+  social:
+    - title: twitter
+      url: https://twitter.com/RabbitPro
+    - title: linkedin
+      url: https://www.linkedin.com/in/rdomanski
+    - title: github
+      url: https://github.com/rdomanski    
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/FlashbackPwn
+
+# Postal address (add as many lines as necessary)
+address:
+  #  - line: 3481 Melrose Place
+  #  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
