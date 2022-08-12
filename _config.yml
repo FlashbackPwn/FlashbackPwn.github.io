@@ -48,5 +48,3 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-include:
-  - ms.md
